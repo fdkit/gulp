@@ -1,0 +1,45 @@
+{
+  "name": "frontend-ui",
+  "version": "0.0.1",
+  "description": "A UI Toolkit for Frontend Development",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^1.6.3",
+    "gulp": "^3.8.9",
+    "gulp-concat": "^2.4.3",
+    "gulp-file-include": "^0.5.1",
+    "gulp-git": "^0.5.3",
+    "gulp-newer": "^0.5.0",
+    "gulp-notify": "^2.0.1",
+    "gulp-print": "^1.1.0",
+    "gulp-prompt": "^0.1.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-usemin": "^0.3.11",
+    "gulp-util": "^3.0.1",
+    "main-bower-files": "^2.4.0",
+    "require-dir": "^0.1.0",
+    "watchify": "^2.1.1"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://shawnsandy@github.com/sgkit/frontend-ui.git"
+  },
+  "keywords": [
+    "Angular",
+    "Frontend",
+    "Polymer",
+    "Elements",
+    "Components",
+    "Elements"
+  ],
+  "author": "shawn Sandy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sgkit/frontend-ui/issues"
+  },
+  "homepage": "https://github.com/sgkit/frontend-ui"
+}
